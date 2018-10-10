@@ -1,1 +1,1 @@
-# MichiganU_PythonIntro
+# MU_PythonIntro
