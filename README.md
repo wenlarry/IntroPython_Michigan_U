@@ -1,1 +1,1 @@
-# MU_PythonIntro
+# PythonIntro UniM
